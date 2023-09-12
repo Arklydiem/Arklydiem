@@ -26,7 +26,7 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arklydiem&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arklydiem&show_icons=true&theme=shades-of-purple)
 
 ---
 
