@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hello There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -24,7 +24,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Junior Developper who studies at 42 School. 
+
+I don't really know wich kind of developer I want to be. But it seems that I love to code !
+So I work on advanced projects of 42 School and some others like Discord bots or Twitter ( now X ) analytics.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
