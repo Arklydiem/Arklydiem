@@ -5,7 +5,7 @@
     I'm Arthur Gomez and I study at 42 Angouleme.
 </h1>
 
-- :telescope: I’m currently studying to pass my last Exam.
+- :telescope: I finnaly pass my last exam ! Now in search of an intership !
 
 - :seedling: Searching how to create a Minecraft Java Edition Mod.
 
