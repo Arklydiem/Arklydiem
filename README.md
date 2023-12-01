@@ -11,7 +11,7 @@
 
 - :zap: In my free time, I play some videogames (Baldur's Gate 3 for now).
 
-- :mailbox: How to reach me: <a href="mailto:arthur.gomez.alarcon@gmail.com">pro.arklydiem@gmail.com</a>
+- :mailbox: How to reach me: <a href="mailto:arthur.gomez.alarcon@gmail.com">arthur.gomez.alarcon@gmail.com</a>
 
 ---
 
