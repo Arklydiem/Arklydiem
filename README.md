@@ -7,9 +7,9 @@
 
 - :telescope: I finnaly pass my last exam ! Now in search of an intership !
 
-- :seedling: Searching how to create a Minecraft Java Edition Mod.
+- :seedling: Working on OOP projects of 42 School.
 
-- :zap: In my free time, I play some videogames (Baldur's Gate 3 for now).
+- :zap: In my free time, I play some videogames (Apex Legends & Baldur's Gate 3 for now).
 
 - :mailbox: How to reach me: <a href="mailto:arthur.gomez.alarcon@gmail.com">arthur.gomez.alarcon@gmail.com</a>
 
