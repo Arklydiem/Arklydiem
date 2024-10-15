@@ -5,7 +5,7 @@
     I'm Arthur Gomez and I study at 42 Angouleme.
 </h1>
 
-- :telescope: I finnaly pass my last exam ! Now in search of an intership !
+- :telescope: I an intership as Fullstack dev on Java SpringBoot and Angular !
 
 - :seedling: Working on OOP projects of 42 School.
 
