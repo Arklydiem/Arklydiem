@@ -7,7 +7,7 @@
 
 - :telescope: In an intership as Fullstack dev on Java SpringBoot and Angular !
 
-- :seedling: Working on OOP projects of 42 School.
+- :seedling: Working on projects of 42 School.
 
 - :zap: In my free time, I play some videogames (Apex Legends & Baldur's Gate 3 for now).
 
