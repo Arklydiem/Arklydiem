@@ -28,9 +28,3 @@
        <img src="https://skillicons.dev/icons?i=java,spring,php,python,nodejs,typescript,javascript,angular,react,html,css,postgres,docker,linux,git,github,gitlab" />
     </a>
 </div>
-
----
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Arklydiem&style=flat-square" alt="Profile views"/>
-</div>
